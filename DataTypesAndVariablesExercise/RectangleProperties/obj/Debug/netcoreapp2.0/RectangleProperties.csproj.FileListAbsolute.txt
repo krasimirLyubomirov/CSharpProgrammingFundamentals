@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.deps.json
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.dll
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.pdb
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.dll
+D:\visualStudio\project\DataTypesAndVariables\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.pdb

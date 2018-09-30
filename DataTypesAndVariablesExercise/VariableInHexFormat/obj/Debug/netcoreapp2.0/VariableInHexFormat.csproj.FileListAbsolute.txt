@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.deps.json
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.dll
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\bin\Debug\netcoreapp2.0\VariableInHexFormat.pdb
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.dll
+D:\visualStudio\project\DataTypesAndVariables\VariableInHexFormat\obj\Debug\netcoreapp2.0\VariableInHexFormat.pdb
