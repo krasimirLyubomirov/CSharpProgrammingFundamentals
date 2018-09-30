@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.exe.config
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.pdb
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.pdb

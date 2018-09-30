@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\specialNumbers\bin\Debug\specialNumbers.exe.config
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\specialNumbers\bin\Debug\specialNumbers.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\specialNumbers\bin\Debug\specialNumbers.pdb
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\specialNumbers\obj\Debug\specialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\specialNumbers\obj\Debug\specialNumbers.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\specialNumbers\obj\Debug\specialNumbers.pdb

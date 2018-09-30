@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\exactSumOfRealNumbers\bin\Debug\exactSumOfRealNumbers.exe.config
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\exactSumOfRealNumbers\bin\Debug\exactSumOfRealNumbers.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\exactSumOfRealNumbers\bin\Debug\exactSumOfRealNumbers.pdb
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\exactSumOfRealNumbers\obj\Debug\exactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\exactSumOfRealNumbers\obj\Debug\exactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\exactSumOfRealNumbers\obj\Debug\exactSumOfRealNumbers.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\exactSumOfRealNumbers\obj\Debug\exactSumOfRealNumbers.pdb

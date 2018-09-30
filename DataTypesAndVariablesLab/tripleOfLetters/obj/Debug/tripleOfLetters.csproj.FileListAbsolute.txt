@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\tripleOfLetters\bin\Debug\tripleOfLetters.exe.config
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\tripleOfLetters\bin\Debug\tripleOfLetters.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\tripleOfLetters\bin\Debug\tripleOfLetters.pdb
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\tripleOfLetters\obj\Debug\tripleOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\tripleOfLetters\obj\Debug\tripleOfLetters.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\tripleOfLetters\obj\Debug\tripleOfLetters.pdb

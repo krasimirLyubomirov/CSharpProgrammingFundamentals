@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\greeting\bin\Debug\greeting.exe.config
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\greeting\bin\Debug\greeting.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\greeting\bin\Debug\greeting.pdb
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\greeting\obj\Debug\greeting.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\greeting\obj\Debug\greeting.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\greeting\obj\Debug\greeting.pdb

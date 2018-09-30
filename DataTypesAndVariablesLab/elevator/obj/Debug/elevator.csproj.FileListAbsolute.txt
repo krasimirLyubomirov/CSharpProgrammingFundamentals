@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\elevator\bin\Debug\elevator.exe.config
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\elevator\bin\Debug\elevator.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\elevator\bin\Debug\elevator.pdb
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\elevator\obj\Debug\elevator.exe
+C:\Users\Hp\source\repos\dataTypesAndVariablesLab\elevator\obj\Debug\elevator.pdb
