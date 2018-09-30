@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\bin\Debug\netcoreapp2.0\SumOfChars.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\bin\Debug\netcoreapp2.0\SumOfChars.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\bin\Debug\netcoreapp2.0\SumOfChars.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\bin\Debug\netcoreapp2.0\SumOfChars.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\bin\Debug\netcoreapp2.0\SumOfChars.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\obj\Debug\netcoreapp2.0\SumOfChars.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\obj\Debug\netcoreapp2.0\SumOfChars.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\obj\Debug\netcoreapp2.0\SumOfChars.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\obj\Debug\netcoreapp2.0\SumOfChars.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\obj\Debug\netcoreapp2.0\SumOfChars.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SumOfChars\obj\Debug\netcoreapp2.0\SumOfChars.pdb

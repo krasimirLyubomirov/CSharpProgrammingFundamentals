@@ -1,0 +1,10 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\netcoreapp2.0\TouristInformation.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\netcoreapp2.0\TouristInformation.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\netcoreapp2.0\TouristInformation.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\netcoreapp2.0\TouristInformation.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\netcoreapp2.0\TouristInformation.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\obj\Debug\netcoreapp2.0\TouristInformation.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\obj\Debug\netcoreapp2.0\TouristInformation.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\obj\Debug\netcoreapp2.0\TouristInformation.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\obj\Debug\netcoreapp2.0\TouristInformation.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\TouristInformation\obj\Debug\netcoreapp2.0\TouristInformation.pdb

@@ -1,0 +1,10 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.pdb

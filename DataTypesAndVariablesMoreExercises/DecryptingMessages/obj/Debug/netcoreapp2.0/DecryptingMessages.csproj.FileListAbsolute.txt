@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.pdb

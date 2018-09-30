@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\netcoreapp2.0\MakeaWord.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\netcoreapp2.0\MakeaWord.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\netcoreapp2.0\MakeaWord.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\netcoreapp2.0\MakeaWord.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\netcoreapp2.0\MakeaWord.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\netcoreapp2.0\MakeaWord.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\netcoreapp2.0\MakeaWord.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\netcoreapp2.0\MakeaWord.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\netcoreapp2.0\MakeaWord.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\netcoreapp2.0\MakeaWord.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\netcoreapp2.0\MakeaWord.pdb

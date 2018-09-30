@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.pdb

@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\netcoreapp2.0\BeerKegs.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\netcoreapp2.0\BeerKegs.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\netcoreapp2.0\BeerKegs.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\netcoreapp2.0\BeerKegs.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\netcoreapp2.0\BeerKegs.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\netcoreapp2.0\BeerKegs.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\netcoreapp2.0\BeerKegs.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\netcoreapp2.0\BeerKegs.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\netcoreapp2.0\BeerKegs.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\netcoreapp2.0\BeerKegs.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\netcoreapp2.0\BeerKegs.pdb

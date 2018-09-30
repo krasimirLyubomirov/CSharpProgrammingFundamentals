@@ -1,0 +1,10 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.pdb

@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\bin\Debug\netcoreapp2.0\WaterOverflow.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\bin\Debug\netcoreapp2.0\WaterOverflow.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\bin\Debug\netcoreapp2.0\WaterOverflow.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\bin\Debug\netcoreapp2.0\WaterOverflow.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\bin\Debug\netcoreapp2.0\WaterOverflow.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\obj\Debug\netcoreapp2.0\WaterOverflow.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\obj\Debug\netcoreapp2.0\WaterOverflow.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\obj\Debug\netcoreapp2.0\WaterOverflow.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\obj\Debug\netcoreapp2.0\WaterOverflow.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\obj\Debug\netcoreapp2.0\WaterOverflow.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WaterOverflow\obj\Debug\netcoreapp2.0\WaterOverflow.pdb

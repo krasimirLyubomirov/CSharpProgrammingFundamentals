@@ -1,0 +1,11 @@
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.deps.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.runtimeconfig.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.runtimeconfig.dev.json
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.pdb
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.csprojAssemblyReference.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.AssemblyInfoInputs.cache
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.AssemblyInfo.cs
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.dll
+D:\visualStudio\project\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.pdb
