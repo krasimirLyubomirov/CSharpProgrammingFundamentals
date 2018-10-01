@@ -1,0 +1,10 @@
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.deps.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.runtimeconfig.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.runtimeconfig.dev.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\netcoreapp2.0\PrimeChecker.pdb
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.AssemblyInfoInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.AssemblyInfo.cs
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\netcoreapp2.0\PrimeChecker.pdb

@@ -1,0 +1,10 @@
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.deps.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.dev.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.pdb
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfoInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfo.cs
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.pdb

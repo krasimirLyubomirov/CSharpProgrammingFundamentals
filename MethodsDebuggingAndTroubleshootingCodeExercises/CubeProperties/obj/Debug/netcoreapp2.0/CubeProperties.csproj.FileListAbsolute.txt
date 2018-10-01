@@ -1,0 +1,10 @@
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.deps.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.runtimeconfig.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.runtimeconfig.dev.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.pdb
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.AssemblyInfoInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.AssemblyInfo.cs
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.pdb

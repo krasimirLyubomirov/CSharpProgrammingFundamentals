@@ -1,0 +1,11 @@
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\netcoreapp2.0\MaxMethod.deps.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\netcoreapp2.0\MaxMethod.runtimeconfig.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\netcoreapp2.0\MaxMethod.runtimeconfig.dev.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\netcoreapp2.0\MaxMethod.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\netcoreapp2.0\MaxMethod.pdb
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\netcoreapp2.0\MaxMethod.csprojAssemblyReference.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\netcoreapp2.0\MaxMethod.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\netcoreapp2.0\MaxMethod.AssemblyInfoInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\netcoreapp2.0\MaxMethod.AssemblyInfo.cs
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\netcoreapp2.0\MaxMethod.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\netcoreapp2.0\MaxMethod.pdb

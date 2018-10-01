@@ -1,0 +1,10 @@
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.deps.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.runtimeconfig.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.runtimeconfig.dev.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.pdb
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.AssemblyInfoInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.AssemblyInfo.cs
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.pdb

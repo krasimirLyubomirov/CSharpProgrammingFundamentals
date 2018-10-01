@@ -1,0 +1,10 @@
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.deps.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.runtimeconfig.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.runtimeconfig.dev.json
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.pdb
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.AssemblyInfoInputs.cache
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.AssemblyInfo.cs
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.dll
+D:\visualStudio\project\MethodsDebuggingAndTroubleshootingCodeExercises\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.pdb
