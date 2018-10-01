@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.deps.json
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.json
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+C:\Users\Hp\source\repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb
