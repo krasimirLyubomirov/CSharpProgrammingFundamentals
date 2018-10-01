@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.pdb

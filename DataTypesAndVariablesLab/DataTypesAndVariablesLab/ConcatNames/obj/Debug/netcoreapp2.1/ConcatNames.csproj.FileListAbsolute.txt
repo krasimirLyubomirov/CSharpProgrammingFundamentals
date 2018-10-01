@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\bin\Debug\netcoreapp2.1\ConcatNames.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\bin\Debug\netcoreapp2.1\ConcatNames.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\bin\Debug\netcoreapp2.1\ConcatNames.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\bin\Debug\netcoreapp2.1\ConcatNames.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\bin\Debug\netcoreapp2.1\ConcatNames.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\obj\Debug\netcoreapp2.1\ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\obj\Debug\netcoreapp2.1\ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\obj\Debug\netcoreapp2.1\ConcatNames.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\obj\Debug\netcoreapp2.1\ConcatNames.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesLab\DataTypesAndVariablesLab\ConcatNames\obj\Debug\netcoreapp2.1\ConcatNames.pdb
