@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertMetersToKilometers.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertMetersToKilometers.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertMetersToKilometers.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertMetersToKilometers.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\ConvertMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertMetersToKilometers.pdb

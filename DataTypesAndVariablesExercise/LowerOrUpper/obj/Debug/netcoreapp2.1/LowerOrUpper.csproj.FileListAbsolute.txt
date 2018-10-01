@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\bin\Debug\netcoreapp2.1\LowerOrUpper.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\bin\Debug\netcoreapp2.1\LowerOrUpper.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\bin\Debug\netcoreapp2.1\LowerOrUpper.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\bin\Debug\netcoreapp2.1\LowerOrUpper.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\bin\Debug\netcoreapp2.1\LowerOrUpper.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\obj\Debug\netcoreapp2.1\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\obj\Debug\netcoreapp2.1\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\obj\Debug\netcoreapp2.1\LowerOrUpper.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\obj\Debug\netcoreapp2.1\LowerOrUpper.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\LowerOrUpper\obj\Debug\netcoreapp2.1\LowerOrUpper.pdb

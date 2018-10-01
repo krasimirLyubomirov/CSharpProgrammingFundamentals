@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\bin\Debug\netcoreapp2.1\CharsToString.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\bin\Debug\netcoreapp2.1\CharsToString.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\bin\Debug\netcoreapp2.1\CharsToString.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\bin\Debug\netcoreapp2.1\CharsToString.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\bin\Debug\netcoreapp2.1\CharsToString.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\obj\Debug\netcoreapp2.1\CharsToString.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\obj\Debug\netcoreapp2.1\CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\obj\Debug\netcoreapp2.1\CharsToString.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\obj\Debug\netcoreapp2.1\CharsToString.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\obj\Debug\netcoreapp2.1\CharsToString.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\CharsToString\obj\Debug\netcoreapp2.1\CharsToString.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.pdb

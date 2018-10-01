@@ -1,4 +1,4 @@
-﻿namespace smsTyping
+﻿namespace ReversedChars
 {
     using System;
 

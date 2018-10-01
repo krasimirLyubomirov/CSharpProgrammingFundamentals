@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\bin\Debug\netcoreapp2.1\DollarsToPounds.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\bin\Debug\netcoreapp2.1\DollarsToPounds.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\bin\Debug\netcoreapp2.1\DollarsToPounds.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\bin\Debug\netcoreapp2.1\DollarsToPounds.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\bin\Debug\netcoreapp2.1\DollarsToPounds.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\obj\Debug\netcoreapp2.1\DollarsToPounds.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\obj\Debug\netcoreapp2.1\DollarsToPounds.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\obj\Debug\netcoreapp2.1\DollarsToPounds.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\obj\Debug\netcoreapp2.1\DollarsToPounds.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\DollarsToPounds\obj\Debug\netcoreapp2.1\DollarsToPounds.pdb

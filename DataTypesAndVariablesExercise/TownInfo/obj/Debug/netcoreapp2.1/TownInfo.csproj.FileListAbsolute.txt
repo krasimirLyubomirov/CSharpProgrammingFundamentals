@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\bin\Debug\netcoreapp2.1\TownInfo.deps.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\bin\Debug\netcoreapp2.1\TownInfo.runtimeconfig.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\bin\Debug\netcoreapp2.1\TownInfo.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\bin\Debug\netcoreapp2.1\TownInfo.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\bin\Debug\netcoreapp2.1\TownInfo.pdb
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\obj\Debug\netcoreapp2.1\TownInfo.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\obj\Debug\netcoreapp2.1\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\obj\Debug\netcoreapp2.1\TownInfo.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\obj\Debug\netcoreapp2.1\TownInfo.AssemblyInfo.cs
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\obj\Debug\netcoreapp2.1\TownInfo.dll
+C:\Users\Hp\Desktop\DataTypesAndVariablesExercise\TownInfo\obj\Debug\netcoreapp2.1\TownInfo.pdb
