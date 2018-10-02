@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.deps.json
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.runtimeconfig.json
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.dll
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.pdb
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.dll
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.pdb

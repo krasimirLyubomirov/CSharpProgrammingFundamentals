@@ -1,0 +1,11 @@
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.0\JumpAround.deps.json
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.0\JumpAround.runtimeconfig.json
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.0\JumpAround.runtimeconfig.dev.json
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.0\JumpAround.dll
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.0\JumpAround.pdb
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.0\JumpAround.csprojAssemblyReference.cache
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.0\JumpAround.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.0\JumpAround.AssemblyInfoInputs.cache
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.0\JumpAround.AssemblyInfo.cs
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.0\JumpAround.dll
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.0\JumpAround.pdb

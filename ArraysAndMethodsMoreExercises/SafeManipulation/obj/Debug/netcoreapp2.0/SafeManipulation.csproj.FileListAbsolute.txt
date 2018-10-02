@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.0\SafeManipulation.deps.json
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.0\SafeManipulation.runtimeconfig.json
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.0\SafeManipulation.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.0\SafeManipulation.dll
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.0\SafeManipulation.pdb
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.0\SafeManipulation.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.0\SafeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.0\SafeManipulation.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.0\SafeManipulation.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.0\SafeManipulation.dll
+C:\Users\Hp\source\repos\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.0\SafeManipulation.pdb

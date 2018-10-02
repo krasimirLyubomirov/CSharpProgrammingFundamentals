@@ -1,0 +1,11 @@
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.deps.json
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.runtimeconfig.json
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.runtimeconfig.dev.json
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.dll
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.pdb
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.csprojAssemblyReference.cache
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.AssemblyInfoInputs.cache
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.AssemblyInfo.cs
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.dll
+D:\visualStudio\project\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.pdb
