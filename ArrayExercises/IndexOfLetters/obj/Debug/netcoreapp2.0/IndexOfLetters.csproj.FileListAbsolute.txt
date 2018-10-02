@@ -1,0 +1,11 @@
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.deps.json
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.runtimeconfig.json
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.runtimeconfig.dev.json
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.dll
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.pdb
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.csprojAssemblyReference.cache
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.AssemblyInfoInputs.cache
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.AssemblyInfo.cs
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.dll
+D:\visualStudio\project\ArrayExercises\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.pdb
