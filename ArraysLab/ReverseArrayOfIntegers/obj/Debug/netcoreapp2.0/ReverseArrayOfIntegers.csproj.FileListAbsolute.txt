@@ -1,0 +1,11 @@
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\ReverseArrayOfIntegers.deps.json
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\ReverseArrayOfIntegers.runtimeconfig.json
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\ReverseArrayOfIntegers.runtimeconfig.dev.json
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\ReverseArrayOfIntegers.dll
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\bin\Debug\netcoreapp2.0\ReverseArrayOfIntegers.pdb
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\ReverseArrayOfIntegers.csprojAssemblyReference.cache
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\ReverseArrayOfIntegers.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\ReverseArrayOfIntegers.AssemblyInfoInputs.cache
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\ReverseArrayOfIntegers.AssemblyInfo.cs
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\ReverseArrayOfIntegers.dll
+D:\visualStudio\project\ArraysLab\ReverseArrayOfIntegers\obj\Debug\netcoreapp2.0\ReverseArrayOfIntegers.pdb

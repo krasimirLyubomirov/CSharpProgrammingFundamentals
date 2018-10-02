@@ -1,0 +1,11 @@
+D:\visualStudio\project\ArraysLab\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.deps.json
+D:\visualStudio\project\ArraysLab\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.runtimeconfig.json
+D:\visualStudio\project\ArraysLab\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.runtimeconfig.dev.json
+D:\visualStudio\project\ArraysLab\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.dll
+D:\visualStudio\project\ArraysLab\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.pdb
+D:\visualStudio\project\ArraysLab\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.csprojAssemblyReference.cache
+D:\visualStudio\project\ArraysLab\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ArraysLab\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.AssemblyInfoInputs.cache
+D:\visualStudio\project\ArraysLab\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.AssemblyInfo.cs
+D:\visualStudio\project\ArraysLab\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.dll
+D:\visualStudio\project\ArraysLab\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.pdb
