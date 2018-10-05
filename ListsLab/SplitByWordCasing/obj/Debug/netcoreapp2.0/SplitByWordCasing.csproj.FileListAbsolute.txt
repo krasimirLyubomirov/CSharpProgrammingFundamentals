@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\bin\Debug\netcoreapp2.0\SplitByWordCasing.deps.json
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\bin\Debug\netcoreapp2.0\SplitByWordCasing.runtimeconfig.json
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\bin\Debug\netcoreapp2.0\SplitByWordCasing.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\bin\Debug\netcoreapp2.0\SplitByWordCasing.dll
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\bin\Debug\netcoreapp2.0\SplitByWordCasing.pdb
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\obj\Debug\netcoreapp2.0\SplitByWordCasing.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\obj\Debug\netcoreapp2.0\SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\obj\Debug\netcoreapp2.0\SplitByWordCasing.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\obj\Debug\netcoreapp2.0\SplitByWordCasing.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\obj\Debug\netcoreapp2.0\SplitByWordCasing.dll
+C:\Users\Hp\source\repos\ListLab\SplitByWordCasing\obj\Debug\netcoreapp2.0\SplitByWordCasing.pdb

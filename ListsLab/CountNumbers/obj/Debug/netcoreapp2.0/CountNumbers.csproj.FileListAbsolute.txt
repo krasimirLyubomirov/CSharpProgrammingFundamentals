@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\ListLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.deps.json
+C:\Users\Hp\source\repos\ListLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.runtimeconfig.json
+C:\Users\Hp\source\repos\ListLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ListLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.dll
+C:\Users\Hp\source\repos\ListLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.pdb
+C:\Users\Hp\source\repos\ListLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ListLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ListLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ListLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.dll
+C:\Users\Hp\source\repos\ListLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.pdb

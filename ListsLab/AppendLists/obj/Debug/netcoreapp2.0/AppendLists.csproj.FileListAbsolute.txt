@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\ListLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.deps.json
+C:\Users\Hp\source\repos\ListLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.runtimeconfig.json
+C:\Users\Hp\source\repos\ListLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ListLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.dll
+C:\Users\Hp\source\repos\ListLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.pdb
+C:\Users\Hp\source\repos\ListLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ListLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ListLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ListLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ListLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.dll
+C:\Users\Hp\source\repos\ListLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.pdb
