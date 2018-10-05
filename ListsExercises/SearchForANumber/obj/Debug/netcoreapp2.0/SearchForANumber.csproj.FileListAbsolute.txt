@@ -1,0 +1,11 @@
+D:\visualStudio\project\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.deps.json
+D:\visualStudio\project\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.runtimeconfig.json
+D:\visualStudio\project\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.runtimeconfig.dev.json
+D:\visualStudio\project\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.dll
+D:\visualStudio\project\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.pdb
+D:\visualStudio\project\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.csprojAssemblyReference.cache
+D:\visualStudio\project\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.AssemblyInfoInputs.cache
+D:\visualStudio\project\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.AssemblyInfo.cs
+D:\visualStudio\project\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.dll
+D:\visualStudio\project\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.pdb

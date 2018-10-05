@@ -1,0 +1,11 @@
+D:\visualStudio\project\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.deps.json
+D:\visualStudio\project\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.runtimeconfig.json
+D:\visualStudio\project\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.runtimeconfig.dev.json
+D:\visualStudio\project\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.dll
+D:\visualStudio\project\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.pdb
+D:\visualStudio\project\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.csprojAssemblyReference.cache
+D:\visualStudio\project\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.AssemblyInfoInputs.cache
+D:\visualStudio\project\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.AssemblyInfo.cs
+D:\visualStudio\project\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.dll
+D:\visualStudio\project\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.pdb

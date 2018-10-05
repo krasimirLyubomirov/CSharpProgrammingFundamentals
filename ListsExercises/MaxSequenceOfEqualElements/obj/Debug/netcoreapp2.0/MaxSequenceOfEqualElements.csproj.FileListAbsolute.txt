@@ -1,0 +1,11 @@
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.deps.json
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.runtimeconfig.json
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.dll
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.pdb
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.dll
+D:\visualStudio\project\ListsExercises\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceOfEqualElements.pdb
