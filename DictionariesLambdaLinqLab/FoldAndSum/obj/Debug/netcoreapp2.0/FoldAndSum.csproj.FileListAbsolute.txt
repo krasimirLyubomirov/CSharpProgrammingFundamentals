@@ -1,0 +1,11 @@
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.deps.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.pdb
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.pdb
+D:\visualStudio\project\DictionariesLambdaLinqLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csprojAssemblyReference.cache

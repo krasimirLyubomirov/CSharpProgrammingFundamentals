@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.deps.json
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.json
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.dll
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.pdb
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfo.cs
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.dll
+C:\Users\Hp\source\repos\DictionariesLambdaLinqLab\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.pdb

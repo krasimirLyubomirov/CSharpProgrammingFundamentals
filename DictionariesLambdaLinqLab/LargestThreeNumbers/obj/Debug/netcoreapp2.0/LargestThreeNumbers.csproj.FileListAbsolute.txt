@@ -1,0 +1,10 @@
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\bin\Debug\netcoreapp2.0\LargestThreeNumbers.deps.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\bin\Debug\netcoreapp2.0\LargestThreeNumbers.runtimeconfig.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\bin\Debug\netcoreapp2.0\LargestThreeNumbers.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\bin\Debug\netcoreapp2.0\LargestThreeNumbers.dll
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\bin\Debug\netcoreapp2.0\LargestThreeNumbers.pdb
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\obj\Debug\netcoreapp2.0\LargestThreeNumbers.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\obj\Debug\netcoreapp2.0\LargestThreeNumbers.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\obj\Debug\netcoreapp2.0\LargestThreeNumbers.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\obj\Debug\netcoreapp2.0\LargestThreeNumbers.dll
+D:\visualStudio\project\DictionariesLambdaLinqLab\LargestThreeNumbers\obj\Debug\netcoreapp2.0\LargestThreeNumbers.pdb

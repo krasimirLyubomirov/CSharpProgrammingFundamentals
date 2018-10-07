@@ -1,0 +1,11 @@
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.deps.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.runtimeconfig.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.dll
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.pdb
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.csprojAssemblyReference.cache
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.dll
+D:\visualStudio\project\DictionariesLambdaLinqLab\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.pdb
