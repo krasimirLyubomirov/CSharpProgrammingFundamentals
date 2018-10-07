@@ -1,0 +1,11 @@
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.deps.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.runtimeconfig.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.0\SupermarketDatabase.pdb
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.csprojAssemblyReference.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.0\SupermarketDatabase.pdb

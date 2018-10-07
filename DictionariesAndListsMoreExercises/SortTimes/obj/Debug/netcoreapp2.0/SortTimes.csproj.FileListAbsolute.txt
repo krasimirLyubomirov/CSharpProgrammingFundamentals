@@ -1,0 +1,11 @@
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.0\SortTimes.deps.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.0\SortTimes.runtimeconfig.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.0\SortTimes.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.0\SortTimes.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.0\SortTimes.pdb
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.0\SortTimes.csprojAssemblyReference.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.0\SortTimes.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.0\SortTimes.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.0\SortTimes.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.0\SortTimes.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.0\SortTimes.pdb

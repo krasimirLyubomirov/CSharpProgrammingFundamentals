@@ -1,0 +1,10 @@
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.deps.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.runtimeconfig.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.pdb
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.pdb

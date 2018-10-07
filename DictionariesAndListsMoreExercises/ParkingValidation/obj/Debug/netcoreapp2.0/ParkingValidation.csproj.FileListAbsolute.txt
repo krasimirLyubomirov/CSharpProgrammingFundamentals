@@ -1,0 +1,11 @@
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.deps.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.runtimeconfig.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.pdb
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.csprojAssemblyReference.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.dll
+D:\visualStudio\project\DictionariesAndListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.pdb
