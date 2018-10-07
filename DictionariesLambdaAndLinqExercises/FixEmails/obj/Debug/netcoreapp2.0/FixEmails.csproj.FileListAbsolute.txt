@@ -1,0 +1,11 @@
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.deps.json
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.runtimeconfig.json
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.runtimeconfig.dev.json
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.dll
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.pdb
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.csprojAssemblyReference.cache
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.AssemblyInfoInputs.cache
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.AssemblyInfo.cs
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.dll
+D:\visualStudio\project\DictionariesLambdaAndLinqExercises\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.pdb
