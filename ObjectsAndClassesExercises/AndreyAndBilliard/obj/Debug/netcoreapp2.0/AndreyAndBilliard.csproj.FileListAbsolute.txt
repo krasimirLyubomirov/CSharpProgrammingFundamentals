@@ -1,0 +1,11 @@
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\bin\Debug\netcoreapp2.0\AndreyAndBilliard.deps.json
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\bin\Debug\netcoreapp2.0\AndreyAndBilliard.runtimeconfig.json
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\bin\Debug\netcoreapp2.0\AndreyAndBilliard.runtimeconfig.dev.json
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\bin\Debug\netcoreapp2.0\AndreyAndBilliard.dll
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\bin\Debug\netcoreapp2.0\AndreyAndBilliard.pdb
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\obj\Debug\netcoreapp2.0\AndreyAndBilliard.csprojAssemblyReference.cache
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\obj\Debug\netcoreapp2.0\AndreyAndBilliard.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\obj\Debug\netcoreapp2.0\AndreyAndBilliard.AssemblyInfoInputs.cache
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\obj\Debug\netcoreapp2.0\AndreyAndBilliard.AssemblyInfo.cs
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\obj\Debug\netcoreapp2.0\AndreyAndBilliard.dll
+D:\visualStudio\project\ObjectsAndClassesExercises\AndreyAndBilliard\obj\Debug\netcoreapp2.0\AndreyAndBilliard.pdb
