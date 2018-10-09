@@ -1,0 +1,10 @@
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.deps.json
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.runtimeconfig.json
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.runtimeconfig.dev.json
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.dll
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.pdb
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.AssemblyInfoInputs.cache
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.AssemblyInfo.cs
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.dll
+D:\visualStudio\project\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.pdb

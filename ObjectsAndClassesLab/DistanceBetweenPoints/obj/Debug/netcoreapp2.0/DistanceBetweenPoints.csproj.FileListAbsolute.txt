@@ -1,0 +1,11 @@
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\bin\Debug\netcoreapp2.0\DistanceBetweenPoints.deps.json
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\bin\Debug\netcoreapp2.0\DistanceBetweenPoints.runtimeconfig.json
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\bin\Debug\netcoreapp2.0\DistanceBetweenPoints.runtimeconfig.dev.json
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\bin\Debug\netcoreapp2.0\DistanceBetweenPoints.dll
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\bin\Debug\netcoreapp2.0\DistanceBetweenPoints.pdb
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\obj\Debug\netcoreapp2.0\DistanceBetweenPoints.csprojAssemblyReference.cache
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\obj\Debug\netcoreapp2.0\DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\obj\Debug\netcoreapp2.0\DistanceBetweenPoints.AssemblyInfoInputs.cache
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\obj\Debug\netcoreapp2.0\DistanceBetweenPoints.AssemblyInfo.cs
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\obj\Debug\netcoreapp2.0\DistanceBetweenPoints.dll
+D:\visualStudio\project\ObjectsAndClassesLab\DistanceBetweenPoints\obj\Debug\netcoreapp2.0\DistanceBetweenPoints.pdb
