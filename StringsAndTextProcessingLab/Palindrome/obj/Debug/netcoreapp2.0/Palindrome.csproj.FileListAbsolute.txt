@@ -1,0 +1,10 @@
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.deps.json
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.runtimeconfig.json
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.runtimeconfig.dev.json
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.dll
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.pdb
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.AssemblyInfoInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.AssemblyInfo.cs
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.dll
+D:\visualStudio\project\StringsAndTextProcessingLab\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.pdb

@@ -1,0 +1,11 @@
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\bin\Debug\netcoreapp2.0\ReverseString.deps.json
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\bin\Debug\netcoreapp2.0\ReverseString.runtimeconfig.json
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\bin\Debug\netcoreapp2.0\ReverseString.runtimeconfig.dev.json
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\bin\Debug\netcoreapp2.0\ReverseString.dll
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\bin\Debug\netcoreapp2.0\ReverseString.pdb
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\obj\Debug\netcoreapp2.0\ReverseString.csprojAssemblyReference.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\obj\Debug\netcoreapp2.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\obj\Debug\netcoreapp2.0\ReverseString.AssemblyInfoInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\obj\Debug\netcoreapp2.0\ReverseString.AssemblyInfo.cs
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\obj\Debug\netcoreapp2.0\ReverseString.dll
+D:\visualStudio\project\StringsAndTextProcessingLab\ReverseString\obj\Debug\netcoreapp2.0\ReverseString.pdb

@@ -1,0 +1,11 @@
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.deps.json
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.runtimeconfig.json
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.runtimeconfig.dev.json
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.dll
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.pdb
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.csprojAssemblyReference.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.AssemblyInfoInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.AssemblyInfo.cs
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.dll
+D:\visualStudio\project\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.pdb
