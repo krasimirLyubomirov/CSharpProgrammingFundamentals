@@ -1,0 +1,11 @@
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.deps.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.runtimeconfig.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.runtimeconfig.dev.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.dll
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.pdb
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.csprojAssemblyReference.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.AssemblyInfo.cs
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.dll
+D:\visualStudio\project\StringsAndTextProcessingExercises\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.pdb

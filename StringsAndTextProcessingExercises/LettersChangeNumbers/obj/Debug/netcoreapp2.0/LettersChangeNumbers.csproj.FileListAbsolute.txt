@@ -1,0 +1,11 @@
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.deps.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.runtimeconfig.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.runtimeconfig.dev.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.dll
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.pdb
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.csprojAssemblyReference.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.AssemblyInfo.cs
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.dll
+D:\visualStudio\project\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.pdb

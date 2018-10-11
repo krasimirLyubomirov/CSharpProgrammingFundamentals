@@ -1,0 +1,11 @@
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.deps.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.runtimeconfig.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.runtimeconfig.dev.json
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.dll
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.pdb
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.csprojAssemblyReference.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.AssemblyInfoInputs.cache
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.AssemblyInfo.cs
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.dll
+D:\visualStudio\project\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.pdb
