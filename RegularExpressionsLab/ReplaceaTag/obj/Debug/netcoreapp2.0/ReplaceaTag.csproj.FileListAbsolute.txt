@@ -1,0 +1,11 @@
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\bin\Debug\netcoreapp2.0\ReplaceaTag.deps.json
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\bin\Debug\netcoreapp2.0\ReplaceaTag.runtimeconfig.json
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\bin\Debug\netcoreapp2.0\ReplaceaTag.runtimeconfig.dev.json
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\bin\Debug\netcoreapp2.0\ReplaceaTag.dll
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\bin\Debug\netcoreapp2.0\ReplaceaTag.pdb
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\obj\Debug\netcoreapp2.0\ReplaceaTag.csprojAssemblyReference.cache
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\obj\Debug\netcoreapp2.0\ReplaceaTag.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\obj\Debug\netcoreapp2.0\ReplaceaTag.AssemblyInfoInputs.cache
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\obj\Debug\netcoreapp2.0\ReplaceaTag.AssemblyInfo.cs
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\obj\Debug\netcoreapp2.0\ReplaceaTag.dll
+D:\visualStudio\project\RegularExpressionsLab\ReplaceaTag\obj\Debug\netcoreapp2.0\ReplaceaTag.pdb
