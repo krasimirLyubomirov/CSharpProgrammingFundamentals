@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.deps.json
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.runtimeconfig.json
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.dll
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.pdb
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.dll
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.pdb

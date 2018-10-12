@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.deps.json
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.runtimeconfig.json
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.dll
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\bin\Debug\netcoreapp2.0\Censorship.pdb
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.dll
+D:\Programming\Visual Studio\project\StringsAndRegularExpressionsMoreExercises\Censorship\obj\Debug\netcoreapp2.0\Censorship.pdb
