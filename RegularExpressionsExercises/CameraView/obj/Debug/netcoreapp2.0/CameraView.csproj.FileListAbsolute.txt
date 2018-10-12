@@ -1,0 +1,10 @@
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\bin\Debug\netcoreapp2.0\CameraView.deps.json
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\bin\Debug\netcoreapp2.0\CameraView.runtimeconfig.json
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\bin\Debug\netcoreapp2.0\CameraView.runtimeconfig.dev.json
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\bin\Debug\netcoreapp2.0\CameraView.dll
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\bin\Debug\netcoreapp2.0\CameraView.pdb
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\obj\Debug\netcoreapp2.0\CameraView.csproj.CoreCompileInputs.cache
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\obj\Debug\netcoreapp2.0\CameraView.AssemblyInfoInputs.cache
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\obj\Debug\netcoreapp2.0\CameraView.AssemblyInfo.cs
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\obj\Debug\netcoreapp2.0\CameraView.dll
+D:\visualStudio\project\RegularExpressionsExercises\CameraView\obj\Debug\netcoreapp2.0\CameraView.pdb
